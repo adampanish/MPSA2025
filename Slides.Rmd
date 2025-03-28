@@ -16,6 +16,10 @@ output:
 background-image: url("atlantic class politics.png")
 background-size: contain
 
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE, htmltools.preserve.raw = FALSE)
+```
+
 ---
 
 background-image: url("jacobin dealignment.png")
