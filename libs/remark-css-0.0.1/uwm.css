@@ -112,9 +112,9 @@ th, td { padding: 5px; }
 
 /* Add image and change bg color */
 .title-slide {
-  background-image: url(https://raw.githubusercontent.com/adampanish/MPSA2025/master/imgs/Stony_Brook_University_seal.svg);
+  background-image: url("imgs/Stony_Brook_University_seal.svg");
   background-position: 9% 15%;
-  background-size: 300px;
+  background-size: 200px;
   background-color: #fff;
   padding-left: 100px;  /* delete this for 4:3 aspect ratio */
 }
