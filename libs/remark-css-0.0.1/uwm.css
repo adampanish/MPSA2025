@@ -112,7 +112,7 @@ th, td { padding: 5px; }
 
 /* Add image and change bg color */
 .title-slide {
-  background-image: url(Stony_Brook_University_seal.svg);
+  background-image: url("imgs/Stony_Brook_University_seal.svg");
   background-position: 9% 15%;
   background-size: 300px;
   background-color: #fff;
