@@ -114,7 +114,7 @@ th, td { padding: 5px; }
 .title-slide {
   background-image: url(https://raw.githubusercontent.com/adampanish/MPSA2025/master/imgs/Stony_Brook_University_deal.svg);
   background-position: 9% 15%;
-  background-size: 100px;
+  background-size: 200px;
   background-color: #fff;
   padding-left: 100px;  /* delete this for 4:3 aspect ratio */
 }
