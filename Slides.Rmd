@@ -7,32 +7,30 @@ date: "4/3/2025"
 output:
   xaringan::moon_reader:
     lib_dir: libs
+    css: ["uwm", "uwm-fonts"]
     nature:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
+      ratio: "16:9"
 ---
 
-background-image: url("atlantic class politics.png")
-background-size: contain
-
-```{r setup, include=FALSE}
-options(htmltools.dir.version = FALSE, htmltools.preserve.raw = FALSE)
-```
-
----
-
-background-image: url("jacobin dealignment.png")
+background-image: url("imgs/atlantic class politics.png")
 background-size: contain
 
 ---
 
-background-image: url("hierarchy cartoon.png")
+background-image: url("imgs/jacobin dealignment.png")
 background-size: contain
 
 ---
 
-background-image: url("hierarchy kansas.jpg")
+background-image: url("imgs/hierarchy cartoon.png")
+background-size: contain
+
+---
+
+background-image: url("imgs/hierarchy kansas.jpg")
 background-size: contain
 
 ---
@@ -41,7 +39,7 @@ background-size: contain
 
 --
 
-background-image: url("atlantic tightwads.png")
+background-image: url("imgs/atlantic tightwads.png")
 background-size: 80%
 
 ---
@@ -72,7 +70,7 @@ class: center
 
 ---
 
-background-image: url("LISS BDCM results.jpeg")
+background-image: url("imgs/LISS BDCM results.jpeg")
 background-size: contain
 
 ---
@@ -82,12 +80,12 @@ class: center
 
 ---
 
-background-image: url("figure liss did.png")
+background-image: url("imgs/figure liss did.png")
 background-size: contain
 
 ---
 
-background-image: url("figure taps did.png")
+background-image: url("imgs/figure taps did.png")
 background-size: contain
 
 ---
