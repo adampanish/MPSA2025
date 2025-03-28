@@ -48,8 +48,9 @@ background-size: 80%
 
 --
 
-“[I]f unemployment is relatively painless, we have no puzzle to solve; there is no problem to be politicized” 
-— Schlozman and Verba (1979, p. 26)
+<uw-blockquote>“[I]f unemployment is relatively painless, we have no puzzle to solve; there is no problem to be politicized” 
+— Schlozman and Verba (1979, p. 26)</uw-blockquote>
+
 
 ---
 
@@ -61,7 +62,7 @@ background-size: 80%
 
 # Why Do We Not See More Economic Voting?
 
-- Material circumstances —> <p style="color:red;">Anxiety</p> —> Political response
+- Material circumstances —> **Anxiety** —> Political response
 
 ---
 class: center
